@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+    align-items: center;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url(note.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+a{text-decoration: none}
+
+h1 {
+    margin-top: 15%;
+    color:fb2525;
+}
+
+.link {
+    text-decoration: none;
+    color: mediumblue;
+}
+
+#logout {
+    padding: 6px;
+    background: #fb2525;
+    color: white;
+    margin-left: 73%;
+    margin-top: -17%;
+}
+
+#new {
+    padding: 6px;
+    background: #fb2525;
+    color: white;
+}
